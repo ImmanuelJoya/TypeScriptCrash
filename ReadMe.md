@@ -1,4 +1,4 @@
-## TypeScript Crash Course ()
+## TypeScript Crash Course ${}
 
 ### Scope of this repo 
 
