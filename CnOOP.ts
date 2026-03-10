@@ -1,5 +1,6 @@
 //Classes and OOP
 
+
 // Class definition
 abstract class Entity {
     protected id: number;
