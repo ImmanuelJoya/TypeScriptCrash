@@ -1,4 +1,4 @@
-//Function Deep Dive
+//Function Deep Dive 
 
 /// Function declarations (hoisted)
 function add(a: number, b: number): number {
