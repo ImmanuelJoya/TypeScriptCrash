@@ -4,7 +4,7 @@ interface User {
     id: number;
     name: string;
 }
-
+ 
 interface Admin extends User { // Interface extension
     permissions: string[];
 }
