@@ -8,7 +8,7 @@ function add(a: number, b: number): number {
 // Function expressions
 const multiply = function (a: number, b: number): number {
     return a * b;
-};
+}; 
 
 // Arrow functions (lexical 'this' binding)
 const divide = (a: number, b: number): number => a / b;
