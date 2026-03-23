@@ -1,5 +1,5 @@
 //Classes and OOP
-
+ 
 
 // Class definition
 abstract class Entity {
